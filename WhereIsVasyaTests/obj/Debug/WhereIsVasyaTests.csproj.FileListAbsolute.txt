@@ -1,0 +1,9 @@
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\bin\Debug\WhereIsVasyaTests.dll
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\bin\Debug\WhereIsVasyaTests.pdb
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\bin\Debug\nunit.framework.dll
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\bin\Debug\WhereIsVasya-CodeWars.exe
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\bin\Debug\WhereIsVasya-CodeWars.pdb
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\bin\Debug\nunit.framework.xml
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\obj\Debug\WhereIsVasyaTests.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\obj\Debug\WhereIsVasyaTests.dll
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasyaTests\obj\Debug\WhereIsVasyaTests.pdb

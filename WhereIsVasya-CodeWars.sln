@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereIsVasya-CodeWars", "WhereIsVasya-CodeWars\WhereIsVasya-CodeWars.csproj", "{B59A7C23-6A51-47C0-B573-6939CA09DC75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereIsVasyaTests", "WhereIsVasyaTests\WhereIsVasyaTests.csproj", "{39FC9FA1-DB28-42A3-8383-33CB45A2CBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59A7C23-6A51-47C0-B573-6939CA09DC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59A7C23-6A51-47C0-B573-6939CA09DC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59A7C23-6A51-47C0-B573-6939CA09DC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59A7C23-6A51-47C0-B573-6939CA09DC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FC9FA1-DB28-42A3-8383-33CB45A2CBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FC9FA1-DB28-42A3-8383-33CB45A2CBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FC9FA1-DB28-42A3-8383-33CB45A2CBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FC9FA1-DB28-42A3-8383-33CB45A2CBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

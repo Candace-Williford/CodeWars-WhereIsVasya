@@ -1,0 +1,6 @@
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasya-CodeWars\bin\Debug\WhereIsVasya-CodeWars.exe.config
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasya-CodeWars\obj\Debug\WhereIsVasya-CodeWars.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasya-CodeWars\bin\Debug\WhereIsVasya-CodeWars.exe
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasya-CodeWars\bin\Debug\WhereIsVasya-CodeWars.pdb
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasya-CodeWars\obj\Debug\WhereIsVasya-CodeWars.exe
+c:\users\candace\documents\visual studio 2013\Projects\WhereIsVasya-CodeWars\WhereIsVasya-CodeWars\obj\Debug\WhereIsVasya-CodeWars.pdb
